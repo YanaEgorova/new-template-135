@@ -1,0 +1,25 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #f7f7f7;
+  --second-brand-color: #413d3a;
+  --third-brand-color: #d9e4ec;
+  --fourth-brand-color: #b2b5b3;
+  --fifth-brand-color: #c8dae0;
+
+
+
+
+  --main-font:  'Lato';
+  --title-font:  'Lato Bold';
+
+  font-size: 62.5%;
+}

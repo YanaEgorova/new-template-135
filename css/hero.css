@@ -30,10 +30,7 @@
     max-width: 50rem;
     margin: 0 auto 2rem;
 }
-.policy .img {
-    margin-bottom: 2rem;
-    border-radius: 3rem;
-}
+
 .policy__title {
     color: var(--second-brand-color);
     font-family: var(--title-font);

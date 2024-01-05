@@ -15,7 +15,7 @@ body.open-menu {
     align-items: center;
 }
 .logo {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-family: var(--title-font);
     z-index: 10;
 }
@@ -90,7 +90,7 @@ body.open-menu {
     opacity: 1;
 }
 .cart__btn {
-    display: none;
+    display: flex;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
 }
